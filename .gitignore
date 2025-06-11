@@ -1,0 +1,5 @@
+
+/vendor/*
+/tests
+.env.example
+.env
